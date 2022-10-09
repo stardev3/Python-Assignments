@@ -1,1 +1,12 @@
+# Tasks this assignments feature!
 
+1.print "Hello from Fun" on console from a function named 'Fun'.
+2.Even/Odd.
+3.Addition.
+4.Display "Hello" 5 times.
+5.Displaying 10 to 1 on Screen.
+6.Positive/Negative/Zero.
+7.Divisible by 5.
+8.Printing 5 stars in line(horizontally)
+9.First 10 even Numbers.
+10.Length of input string.
