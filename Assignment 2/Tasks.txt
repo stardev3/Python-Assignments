@@ -1,0 +1,20 @@
+# Tasks this Assignment features!
+
+1.Create module "Arithematic":contains add,sub,mult,div functions and call them from a separate .py file.
+2.Display sqaure star pattern with input number.
+3.Return factorial of input.
+4.Return addition of factors of input.
+5.Prime Number.
+6.Display inverted right angle triangle input(no. of stars in first line).
+7.Display sqaure numbered pattern(input = 3).
+  1 2 3
+  1 2 3
+  1 2 3
+   
+8.Display right angle numbered pattern(input = 3).
+  1
+  1 2
+  1 2 3
+  
+9.Return no. of Digits in a Number.
+10.Return addition of Digits in a Number.
