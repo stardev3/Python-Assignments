@@ -1,0 +1,8 @@
+
+1.Sum of all Elements of List
+2.Maximum Element from List
+3.Minimum Element from List
+4.Frequency of specific Element
+5.Return Addition of all Prime Numbers(Pass list to ChkPrime function in MrvlsNum Module)
+
+All tasks should be done using separate functions!
