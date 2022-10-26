@@ -1,0 +1,24 @@
+# Tasks this Assignment features!
+
+(Note : All tasks should be completed using lambda functions)
+
+1.Parameter acpt : 1 :: rtrn : power of two
+2.Parameter acpt : 2 :: rtrn : multiplication
+
+
+*Filter Map Reduce :
+
+3.Input List = [4,34,36,76,68,24,89,23,86,90,45,70]
+  Filter List = [76,89,86,90,70]    : rnge btwn 70 to 90
+  Map List = [86,99,96,100,80]      : +10
+  Reduce output : 6538752000        : rtrn product
+ 
+4.Input List = [5,2,3,4,3,4,1,2,8,10]
+  Filter List = [2,4,4,2,8,10]     : evn no's
+  Map List = [4,16,16,4,64,100]    : square
+  Reduce output : 204              : Summation
+    
+5.Input List = [2,70,11,10,17,23,31,77]
+  Filter List = [2,11,17,23,31]     : prime no's
+  Map List = [4,22,34,36,62]        : mult by two
+  Reduce Output : 62                : max no
