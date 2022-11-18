@@ -1,0 +1,8 @@
+#Tasks this Assignment features!
+
+
+1.Display values of Instance Variables(create 2 objects)
+2.Create class named Circle,Task : Accept(),CalculateArea(),CalculateCircumference(),Display()
+3.Create class named Arithematic : Task: Accept(),Add(),Sub(),Mult(),Div(),Display()
+
+This tasks should be completed in Object Oriented Manner.
