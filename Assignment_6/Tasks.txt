@@ -1,0 +1,7 @@
+# Tasks this Assignment feature!
+
+1.BookStore(Author,BookName,BookCount,Display)
+2.Bank Account(AccInfo,Deposit,Withdraw.CalculateIntrest,Display)
+3.Numbers(ChkPrime,ChkPerfect,Factors,SumFactors)
+
+Note : All tasks should be completed in Object Oriented Manner.
